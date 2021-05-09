@@ -1,0 +1,706 @@
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/LevelSequences/DreamLevelStartFadeIn.uasset" 0
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/LevelSequences/FadeOutThenIn.uasset" 1
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/LevelSequences/OverworldLevelStartFadeIn.uasset" 2
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Collected_Item_Clock.uasset" 3
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Collected_Item_Clock.uasset" 4
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Collected_Item_Present.uasset" 5
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Collected_Item_Present.uasset" 6
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 7
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/Game_SFX.uasset" 8
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/Menu_SFX.uasset" 9
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/Music.uasset" 10
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/PixieDust_Sound_Mix.uasset" 11
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/Sound_Class_Enum.uasset" 12
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/CollectableItem.uasset" 13
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/PixieGameInstance.uasset" 14
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/SaveSystem/MainGame_Save.uasset" 15
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Input_E.uasset" 16
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Menu_Superclass_BP.uasset" 17
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/GameModes_Controllers/Controller_Superclass.uasset" 18
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/SaveSystem/Controls_Save.uasset" 19
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/PixieModel_Skeleton.uasset" 20
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Fly_Drop.uasset" 21
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Fly_Land.uasset" 22
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Interact_Full.uasset" 23
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Fly_Boost_Forwards.uasset" 24
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Fly_Boost_Upwards.uasset" 25
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/Pixie_Fly_Boost_BS.uasset" 26
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Fly_Gliding.uasset" 27
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Fly_Gliding_Forwards.uasset" 28
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/Pixie_Glide_BS.uasset" 29
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Jump_Forwards.uasset" 30
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Jump_Up.uasset" 31
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/Pixie_Jump_BS.uasset" 32
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Jump_Up_Moving_Forwards_Loop.uasset" 33
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Jump_Up_Moving_Up_Loop.uasset" 34
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/Pixie_Jumping_BS.uasset" 35
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Fly_Land_Running.uasset" 36
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/Pixie_Land_BS.uasset" 37
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Idle.uasset" 38
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Run.uasset" 39
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/PixieModelAnims_Pixie_Walk.uasset" 40
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Animations/Pixie_Walk_Run_BS.uasset" 41
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Pixie_Anim_BP.uasset" 42
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Activatable_I.uasset" 43
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 44
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_EmissiveSprite.uasset" 45
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 46
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 47
+"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 48
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 49
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 50
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 51
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Magic_Circle.uasset" 52
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Magic_Circle_Sprite.uasset" 53
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/MagicCircle_BP.uasset" 54
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Blue_Glass.uasset" 55
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Book_Pages.uasset" 56
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Green_Button.uasset" 57
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Laptop_Details.uasset" 58
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Laptop_Keys.uasset" 59
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Laptop_Screen.uasset" 60
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Locker_Cavity.uasset" 61
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Printer_Cavity.uasset" 62
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Red_Button.uasset" 63
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Yellow_Button.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 65
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 66
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 67
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 68
+"../../../Engine/Content/BasicShapes/Cube.uasset" 69
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 70
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 71
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/288907__littlerobotsoundfactory__click-mechanical-00.uasset" 72
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/288913__littlerobotsoundfactory__click-standard-02.uasset" 73
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/288961__littlerobotsoundfactory__click-electronic-16.uasset" 74
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/290380__littlerobotsoundfactory__slide-electronic-00.uasset" 75
+"../../../Engine/Content/EngineResources/Black.uasset" 76
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset" 77
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/FX_Glow_12alpha.uasset" 78
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst.uasset" 79
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset" 80
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01.uasset" 81
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST.uasset" 82
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_2Sided_Pan_Mask_Master.uasset" 83
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Noise/T_Tile_Noise_Tendril_01.uasset" 84
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_INST.uasset" 85
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_AuraCircle_03.uasset" 86
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Skill_Aura/P_Glow.uasset" 87
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Scanner_BP.uasset" 88
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Pixie_Texture.uasset" 89
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Pixie_Texture_Unshadowed.uasset" 90
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/M_Pixie_Material.uasset" 91
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270303__littlerobotsoundfactory__collect-point-01.uasset" 92
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270330__littlerobotsoundfactory__jingle-achievement-01.uasset" 93
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270337__littlerobotsoundfactory__pickup-00.uasset" 94
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/Fantasy/270396__littlerobotsoundfactory__spell-01.uasset" 95
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/Fantasy/270409__littlerobotsoundfactory__spell-00.uasset" 96
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/Fantasy/270416__littlerobotsoundfactory__footstep-dirt-07.uasset" 97
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uasset" 98
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uasset" 99
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_Circular_02.uasset" 100
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Noise_01_Inst.uasset" 101
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_LightCone.uasset" 102
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_02_Inst.uasset" 103
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Combat_Base/Resurrection/P_Resurrection_02.uasset" 104
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270315__littlerobotsoundfactory__menu-navigate-03.uasset" 105
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Feather_Empty.uasset" 106
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Feather_Filled_With_Border_V2.uasset" 107
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Smiley_by_TukTukDesign_from_Pixabay.uasset" 108
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Feather.uasset" 109
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/OverworldPixieHUD.uasset" 110
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/PixieModel_PhysicsAsset.uasset" 111
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/PixieModel.uasset" 112
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Position_Indicator_Blurred.uasset" 113
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Position_Indicator_Sprite.uasset" 114
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/Overworld/OverworldPixieCharacter/Pixie_BP.uasset" 115
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/288911__littlerobotsoundfactory__click-soft-01.uasset" 116
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/FocusableButton_BP.uasset" 117
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/FocusableSlider_BP.uasset" 118
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/288914__littlerobotsoundfactory__click-standard-01.uasset" 119
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/SaveSystem/AudioOptions_Save.uasset" 120
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Audio_Menu_BP.uasset" 121
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/SaveSystem/GraphicsOptions_Save.uasset" 122
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/GraphicsMenu_BP.uasset" 123
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Credits_Page_BP.uasset" 124
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/MainMenu_BP.uasset" 125
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/OptionsMenu_BP.uasset" 126
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Tooltip.uasset" 127
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/GameplayMenu_BP.uasset" 128
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/ControlsMenu_BP.uasset" 129
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Feather_Empty.uasset" 130
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Feather_Filled_With_Border_V2.uasset" 131
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Present.uasset" 132
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Present.uasset" 133
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Smiley_by_TukTukDesign_from_Pixabay.uasset" 134
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Thought_Cloud.uasset" 135
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Thought_Cloud.uasset" 136
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Thought_Cloud_Billboard.uasset" 137
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Thought_Cloud_Billboard.uasset" 138
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Thought_Cloud_Connector.uasset" 139
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Thought_Cloud_Connector.uasset" 140
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Images/Thought_Cloud_Connector_Billboard.uasset" 141
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Thought_Cloud_Connector_Billboard.uasset" 142
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 143
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 144
+"../../../Engine/Content/BasicShapes/Plane.uasset" 145
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 146
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 147
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 148
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 149
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 150
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 151
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 152
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 153
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 154
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 155
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 156
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 159
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 160
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 161
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 162
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 163
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 164
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 165
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 166
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 167
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 168
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 169
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 170
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 171
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 172
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 173
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 174
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 175
+"../../../Engine/Content/EditorResources/S_Note.uasset" 176
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 177
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 178
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 179
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 180
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 181
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 182
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 183
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 184
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 185
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 188
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 194
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 195
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 196
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 197
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 198
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 199
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 201
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 202
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 203
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 204
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 205
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 206
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 207
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 208
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 209
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 210
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 211
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 215
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 217
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 218
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 219
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 220
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 221
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 223
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 224
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 225
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 226
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 227
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 228
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 229
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 230
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 231
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 232
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 233
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 235
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 236
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 237
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 238
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 239
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 240
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 241
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 242
+"../../../Engine/Content/EngineSounds/Master.uasset" 243
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 245
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 246
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 247
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 248
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 249
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 266
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 267
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 268
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 269
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 270
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 271
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 272
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 273
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 274
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 275
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 276
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 277
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 278
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 279
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 280
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 281
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 282
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 283
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 284
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 285
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 286
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 288
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 289
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 290
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 291
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 292
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 293
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 294
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 295
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 296
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 297
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 298
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 299
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 300
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 301
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 302
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 303
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 304
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 305
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 306
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/288906__littlerobotsoundfactory__click-mechanical-01.uasset" 307
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/288910__littlerobotsoundfactory__click-soft-02.uasset" 308
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Additional_Polish_Sprites.uasset" 309
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Door_Holder_Bottom_Sprite.uasset" 310
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Door_Holder_Top_Sprite.uasset" 311
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Door_Holder_Bottom_Sprite.uasset" 312
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Door_Holder_Top_Sprite.uasset" 313
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Space_Door_Holder_Bottom_Sprite.uasset" 314
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Space_Door_Holder_Top_Sprite.uasset" 315
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Boxes_Switches_and_Doors.uasset" 316
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cloud_Door_Bottom_Sprite.uasset" 317
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cloud_Door_Top_Sprite.uasset" 318
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cricket_Door_Bottom_Sprite.uasset" 319
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cricket_Door_Top_Sprite.uasset" 320
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Background_Sprite.uasset" 321
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Space_Door_Bottom_Sprite.uasset" 322
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Space_Door_Top_Sprite.uasset" 323
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerTheme.uasset" 324
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Platformer_BP.uasset" 325
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Clamp_Sprite_Powered_Sprite.uasset" 326
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Clamp_Sprite_Unpowered_Sprite.uasset" 327
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Pedestal_Sprite.uasset" 328
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Clamp_Switch_Powered_Sprite.uasset" 329
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Clamp_Switch_Unpowered_Sprite.uasset" 330
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Pedestal_Sprite.uasset" 331
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Space_Clamp_Switch_Powered_Sprite.uasset" 332
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Space_Clamp_Switch_Unpowered_Sprite.uasset" 333
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Space_Pedestal_Sprite.uasset" 334
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cloud_Switch_Off_Sprite.uasset" 335
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cloud_Switch_On_Sprite.uasset" 336
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cricket_Switch_Off_Sprite.uasset" 337
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cricket_Switch_On_Sprite.uasset" 338
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Space_Switch_Off_Sprite.uasset" 339
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Space_Switch_On_Sprite.uasset" 340
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Switch_Platformer_BP.uasset" 341
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Space_Box_Off_Sprite.uasset" 342
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Space_Box_On_Sprite.uasset" 343
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Box_Platformer_BP.uasset" 344
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Platformer.uasset" 345
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Platformer_Sprite_0.uasset" 346
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Platformer_Sprite_1.uasset" 347
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Platformer_Sprite_2.uasset" 348
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Platformer_Sprite_3.uasset" 349
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Platformer_Sprite_4.uasset" 350
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Platformer_Sprite_5.uasset" 351
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/Magic_Circle_Flipbook.uasset" 352
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Magic_Circle_Platformer/2D_Magic_Circle_BP.uasset" 353
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270338__littlerobotsoundfactory__open-01.uasset" 354
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/PlatformerPixieHUD.uasset" 355
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet.uasset" 356
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__34.uasset" 357
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__35.uasset" 358
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__36.uasset" 359
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_End_Teleport_Flipbook.uasset" 360
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__19.uasset" 361
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Holding_Object_Idle_Flipbook.uasset" 362
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__26.uasset" 363
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__32.uasset" 364
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__33.uasset" 365
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Holding_Object_Jump_Flipbook.uasset" 366
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__20.uasset" 367
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__21.uasset" 368
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__22.uasset" 369
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Holding_Object_Land_Flipbook.uasset" 370
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Holding_Object_Midair_Flipbook.uasset" 371
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__24.uasset" 372
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__25.uasset" 373
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__27.uasset" 374
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__28.uasset" 375
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__29.uasset" 376
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__30.uasset" 377
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__31.uasset" 378
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Holding_Object_Running_Flipbook.uasset" 379
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__0.uasset" 380
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__1.uasset" 381
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__2.uasset" 382
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__3.uasset" 383
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Idle_Flipbook.uasset" 384
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__10.uasset" 385
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__4.uasset" 386
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Jump_Flipbook.uasset" 387
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__5.uasset" 388
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__6.uasset" 389
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__7.uasset" 390
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Land_Flipbook.uasset" 391
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Midair_Flipbook.uasset" 392
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__23.uasset" 393
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Place_Circle_Flipbook.uasset" 394
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__16.uasset" 395
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__17.uasset" 396
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__18.uasset" 397
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Reach_Back_Flipbook.uasset" 398
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Reach_Out_Flipbook.uasset" 399
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__11.uasset" 400
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__12.uasset" 401
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__13.uasset" 402
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__14.uasset" 403
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__15.uasset" 404
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__8.uasset" 405
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Pixie_Spritesheet_Sprite__9.uasset" 406
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Run_Flipbook.uasset" 407
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Sprites/Flipbooks/Pixie_Start_Teleport_Flipbook.uasset" 408
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/PlatformerPixie_BP.uasset" 409
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/SaveSystem/Checkpoint_BP.uasset" 410
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 411
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 412
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 413
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 414
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 415
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 416
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 417
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 418
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 419
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/Game_Win_Screen_BP.uasset" 420
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/UI/PauseMenu_BP.uasset" 421
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/GameModes_Controllers/GeneralPixieController.uasset" 422
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerPixieCharacter/Placeholder_PlatformerCharacter_BP.uasset" 423
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/GameModes_Controllers/PlatformerMode.uasset" 424
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Other_Character_Sprites.uasset" 425
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Kid_Astronaut_Sprite.uasset" 426
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Kid_Astronaut.uasset" 427
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Anti_Platformer_BP.uasset" 428
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Anti_Horizontal_Platformer_BP.uasset" 429
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Horizontal_Platformer_BP.uasset" 430
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Door_Holder_Bottom_Left_Sprite.uasset" 431
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Door_Holder_Bottom_Right_Sprite.uasset" 432
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Door_Holder_Top_Left_Sprite.uasset" 433
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cloud_Door_Holder_Top_Right_Sprite.uasset" 434
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Door_Holder_Bottom_Left_Sprite.uasset" 435
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Door_Holder_Bottom_Right_Sprite.uasset" 436
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Door_Holder_Top_Left_Sprite.uasset" 437
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Additional_Polish/Cricket_Door_Holder_Top_Right_Sprite.uasset" 438
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Horizontal_Secondary_Platformer_BP.uasset" 439
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Present_BP.uasset" 440
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Door_Secondary_Platformer_BP.uasset" 441
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/Fantasy/270397__littlerobotsoundfactory__spell-02.uasset" 442
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Portal_Texture.uasset" 443
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Portal_Sprite.uasset" 444
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Portal_BP.uasset" 445
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/Dream_Level_BuiltData.uasset" 446
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/audio/Harp_of_Chronos.uasset" 447
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/cues/HarpOfChronos.uasset" 448
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Parent_Ball_Sprite_1.uasset" 449
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Parent_Ball_Sprite_2.uasset" 450
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Parent_Ball_Sprite_3.uasset" 451
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Parent_Ball_Sprite_4.uasset" 452
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Parent_Ball_Sprite_5.uasset" 453
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Parent_Ball_Sprite_6.uasset" 454
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Parent_Ball_Flipbook.uasset" 455
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Present_Icon.uasset" 456
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Decorations/Present_Icon_Sprite.uasset" 457
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cloud_Box_Off_Sprite.uasset" 458
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cloud_Box_On_Sprite.uasset" 459
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cricket_Box_Off_Sprite.uasset" 460
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/Level_Props/Cricket_Box_On_Sprite.uasset" 461
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerTileset/Dream_Tileset_ThinsPad.uasset" 462
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerTileset/Dream_Tileset_Thins_TileSet.uasset" 463
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerTileset/Dream_TilesetPad.uasset" 464
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerTileset/Dream_Tileset_TileSet.uasset" 465
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/PlatformerWorld/PlatformerTileset/DreamLevel.uasset" 466
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/Dream_Level.umap" 467
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Decal_Laptop_Inside.uasset" 468
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Laptop_Base.uasset" 469
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/290384__littlerobotsoundfactory__slide-sharp-00.uasset" 470
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Tutorial_Images/Interact_Tutorial.uasset" 471
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Tutorial_Images/Laptop_Screen_Tutorial.uasset" 472
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Tutorial_Images/Laptop_Screen_Tutorial_Sprite.uasset" 473
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Laptop_BP.uasset" 474
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_Commode_A.uasset" 475
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_Commode_M_R_AO.uasset" 476
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_Commode_N.uasset" 477
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Materials/M_Classic_Commode.uasset" 478
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_Cupboard_A.uasset" 479
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_Cupboard_M_R_AO.uasset" 480
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_Cupboard_N.uasset" 481
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Materials/M_Classic_Cupboard.uasset" 482
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Meshes/SM_Classic_Cupboard.uasset" 483
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Door_Left.uasset" 484
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Door_Right.uasset" 485
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Drawer.uasset" 486
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Blueprints/BP_Classic_Cupboard.uasset" 487
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/GameModes_Controllers/OverworldMode.uasset" 488
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Office_Divider.uasset" 489
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Phone_Light.uasset" 490
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 491
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Ice/T_IceChunks.uasset" 492
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceChunksBase.uasset" 493
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_CombatArea_Arc.uasset" 494
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Ring_Quarter_01_INST.uasset" 495
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowFlare_Circular_02.uasset" 496
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_07_INST.uasset" 497
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset" 498
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uasset" 499
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uasset" 500
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_CombatArea_Base.uasset" 501
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/P_Present_Glow.uasset" 502
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Alarm_Clock_BP.uasset" 503
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_Duvet_Skeleton.uasset" 504
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_Duvet_Anim_Duvet_Armature_Duvet_Wake_Up.uasset" 505
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_Kid_Skeleton.uasset" 506
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_Kid_Anim_Kid_Armature_Kid_Wake_Up.uasset" 507
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Resetable_I.uasset" 508
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Materials/Bed_Texture_Unshaded.uasset" 509
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Materials/M_Kid_Bed.uasset" 510
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Materials/Duvet_Texture.uasset" 511
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Materials/M_Kid_Duvet.uasset" 512
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid.uasset" 513
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_Bed.uasset" 514
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_Duvet.uasset" 515
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Materials/Kid_Texture.uasset" 516
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Materials/M_Kid.uasset" 517
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_Kid.uasset" 518
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bed_With_Kid/Bed_With_Kid_BP.uasset" 519
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_MacroVariation.uasset" 520
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 521
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 522
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 523
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Bedside_Cabinet_BP.uasset" 524
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Book_Cover.uasset" 525
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book_Base.uasset" 526
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book0_DarkBlue.uasset" 527
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book2_Mint.uasset" 528
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book4_SkyBlue.uasset" 529
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book5_Grey.uasset" 530
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book6_Pink.uasset" 531
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book8_Red.uasset" 532
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book9_White.uasset" 533
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270326__littlerobotsoundfactory__hit-01.uasset" 534
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_Base.uasset" 535
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_First_Red.uasset" 536
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_Subsequent_Base.uasset" 537
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_S0_Orange.uasset" 538
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_S1_Yellow.uasset" 539
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_S2_Green.uasset" 540
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_S3_Blue.uasset" 541
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_S4_Indigo.uasset" 542
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Toppleable_Book_SLast_Violet.uasset" 543
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Materials/M_Chrome.uasset" 544
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Lamp_Casing.uasset" 545
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Materials/M_Basic_Wall.uasset" 546
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Statue_M.uasset" 547
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Statue_N.uasset" 548
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Props/Materials/M_Statue.uasset" 549
+"../../../Engine/Content/BasicShapes/Cone.uasset" 550
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270325__littlerobotsoundfactory__hit-02.uasset" 551
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 552
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Props/SM_Statue.uasset" 553
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Falling_Statue_BP.uasset" 554
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 555
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 556
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Materials/M_Wood_Oak.uasset" 557
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Kid_Desk_BP.uasset" 558
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Lamp_Bulb.uasset" 559
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 560
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Lamp_BP.uasset" 561
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270306__littlerobotsoundfactory__explosion-02.uasset" 562
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270317__littlerobotsoundfactory__jump-01.uasset" 563
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Pedal_Bin_BP.uasset" 564
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Storage_Container_BP.uasset" 565
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Telescope_BP.uasset" 566
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Phone_Dark.uasset" 567
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Traveling_Case_BP.uasset" 568
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Materials/M_Bed_drawer_metall.uasset" 569
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Wardrobe.uasset" 570
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270304__littlerobotsoundfactory__collect-point-00.uasset" 571
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Worlds_Characters/LevelTransitionZoneToDream.uasset" 572
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/KidBedroom_Level_BuiltData.uasset" 573
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Materials/M_Basic_Floor.uasset" 574
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 575
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 576
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 577
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Materials/M_Wood_Pine.uasset" 578
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/audio/Elven_Realm.uasset" 579
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/cues/ElvenRealm.uasset" 580
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270341__littlerobotsoundfactory__pickup-04.uasset" 581
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/BasicSoundAttenuation.uasset" 582
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/Fantasy/270392__littlerobotsoundfactory__inventory-open-01.uasset" 583
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/Fantasy/270419__littlerobotsoundfactory__footstep-dirt-04.uasset" 584
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_chair_a.uasset" 585
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_chair_m_r_ao.uasset" 586
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Classic_chair_n.uasset" 587
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Materials/M_Classic_chair.uasset" 588
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Meshes/SM_Classic_chair.uasset" 589
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.uasset" 590
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset" 591
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Treasure/Chest/P_TreasureChest_CallOut_loop_Tier1.uasset" 592
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Tutorial_Images/Deskside_Tutorial.uasset" 593
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Tutorial_Images/Deskside_Tutorial_Sprite.uasset" 594
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Frame_M.uasset" 595
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Textures/T_Frame_N.uasset" 596
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Props/Materials/M_Frame.uasset" 597
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/StarterContent/Props/SM_CornerFrame.uasset" 598
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/KidBedroom_Level.umap" 599
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/GameModes_Controllers/MenuController.uasset" 600
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/GameModes_Controllers/MenuMode.uasset" 601
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/MainMenu_Level_BuiltData.uasset" 602
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/audio/Elven_Harmonies__no_percussion_.uasset" 603
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/cues/ElvenHarmoniesNoPerc.uasset" 604
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/MainMenu_Level.umap" 605
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/290381__littlerobotsoundfactory__slide-soft-00.uasset" 606
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Fan_Airflow_Zone.uasset" 607
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Alarm_Clock_Prop_BP.uasset" 608
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Books/Book3_ForestGreen.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 614
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 615
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 616
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 617
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 618
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 619
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 620
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/GT_SHADE/Textures/T_Baseline_bc.uasset" 621
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/GT_SHADE/Textures/T_Baseline_n.uasset" 622
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/GT_SHADE/Materials/M_GT_Basic.uasset" 623
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_basecolor.uasset" 624
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_height.uasset" 625
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_mrao.uasset" 626
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_normal.uasset" 627
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/Materials/Bitmaps/Metal_BarbedWire/WesternBarbedWireKitRusty_opacity.uasset" 628
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials_GT_Free2019/Materials/M_Metal_BarbedWire_Inst.uasset" 629
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270316__littlerobotsoundfactory__open-00.uasset" 630
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Desk_Fan_BP.uasset" 631
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Locker_BP.uasset" 632
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Bag_BP.uasset" 633
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/290382__littlerobotsoundfactory__slide-sharp-02.uasset" 634
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Computer_Tower_BP.uasset" 635
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Keyboard_BP.uasset" 636
+"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 637
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Chat_Overlay_Image.uasset" 638
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Chat_Overlay_Image_Sprite.uasset" 639
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Monitor_Desktop_Image.uasset" 640
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Monitor_Desktop_Image_Sprite.uasset" 641
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_In_Spritesheet.uasset" 642
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_0.uasset" 643
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_1.uasset" 644
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_10.uasset" 645
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_11.uasset" 646
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_12.uasset" 647
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_13.uasset" 648
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_14.uasset" 649
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_15.uasset" 650
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_2.uasset" 651
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_3.uasset" 652
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_4.uasset" 653
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_5.uasset" 654
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_6.uasset" 655
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_7.uasset" 656
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_8.uasset" 657
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Pixie_Scanning_9.uasset" 658
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Pixie_Scanning_Sprites/Flipbook_Pixie_Scanning_In.uasset" 659
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Computer/Monitor_BP.uasset" 660
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Office_Desk_BP.uasset" 661
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Parent_Skeleton.uasset" 662
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Animations/Parent_Anim_Parent_Sleeping.uasset" 663
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Parent_Anim_BP.uasset" 664
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Animations/Parent_Anim_Parent_Back_To_Sleep.uasset" 665
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Animations/Parent_Anim_Parent_Look_Around.uasset" 666
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Animations/Parent_Anim_Parent_Look_At_Clock.uasset" 667
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Animations/Parent_Anim_Parent_Wake_Up_1.uasset" 668
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Animations/Parent_Anim_Parent_Wake_Up_2.uasset" 669
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Parent_Texture.uasset" 670
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/M_Parent.uasset" 671
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Parent_PhysicsAsset.uasset" 672
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Parent.uasset" 673
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Parent/Parent_BP.uasset" 674
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270321__littlerobotsoundfactory__menu-navigate-01.uasset" 675
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270322__littlerobotsoundfactory__menu-navigate-02.uasset" 676
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Phone.uasset" 677
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master.uasset" 678
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_Rocks_Fire_3_3.uasset" 679
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebrisFire_Trans_INST.uasset" 680
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uasset" 681
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uasset" 682
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/P_Present_Glow2.uasset" 683
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Present_Pickup_BP.uasset" 684
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Table_BP.uasset" 685
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Materials/M_Box.uasset" 686
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Placeables_Scenery/Wall_Clock_BP.uasset" 687
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/ParentOffice_Level_BuiltData.uasset" 688
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/audio/Enchanted_Forest.uasset" 689
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/cues/EnchantedForest.uasset" 690
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/audio/Magical_Fantasy.uasset" 691
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/FantasyOrchestral/cues/MagicalFantasy.uasset" 692
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/8-Bit/270333__littlerobotsoundfactory__jingle-win-00.uasset" 693
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/Fantasy/270401__littlerobotsoundfactory__menu-select-00.uasset" 694
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/LittleRobotSoundFactory_SFX_Packs/UI/290383__littlerobotsoundfactory__slide-sharp-01.uasset" 695
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/Other_SFX/Alarm_Clock_Ring.uasset" 696
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Audio/Other_SFX/Office_Telephone_Ring.uasset" 697
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Office_Chair_M.uasset" 698
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Office_Chair_M_R_AO.uasset" 699
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Textures/T_Office_Chair_N.uasset" 700
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Materials/M_Office_Chair.uasset" 701
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/FreeFurniturePack/Meshes/SM_Modern_Office_chair.uasset" 702
+"../../../../../../Users/AndrewP/Documents/Unreal Projects/PixieDust 4.22/Content/Levels/ParentOffice_Level.umap" 703
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 704
+"../../../Engine/Content/Maps/Entry.umap" 705
